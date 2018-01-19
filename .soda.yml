@@ -2,7 +2,8 @@ from: mac
 envs:
   version: 1.0
   build: 1.0
-
+  scm.increment: 
+  scm.checkout: true
 stages:
   build:
     # 下一条指令开启xcode工程的默认编译
