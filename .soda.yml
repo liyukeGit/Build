@@ -34,7 +34,7 @@ stages:
   #        Possible Values: [7.0, 7.2, 8.0, 8.3.3, 9.0]
   
   - plugin_xcode
-    --iosPath : ios
+
     # 下一条指令开启xcode工程的默认编译
     # 一般需要指定以下参数:
     # --iosPath 输出路径， 默认是 bin/ios
