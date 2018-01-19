@@ -6,6 +6,35 @@ envs:
   scm.checkout: true
 stages:
   build:
+  # 调用XCode执行IOS工程构建 
+  
+  # Usage: <main class> [options]
+  #   Options:
+  #     -c, --configuration
+  #        XCode 工程配置信息
+  #     --enableBitCode
+  #        启用或禁用bitCode模式, 默认禁止
+  #        Default: false
+  #     --iosName
+  #        IOS IPA名, 默认是output.ipa
+  #        Default: output.ipa
+  #     --iosPath
+  #        IOS IPA所在的目录， 默认是bin/ios
+  #        Default: bin/ios
+  #     -p, --project
+  #        XCode 工程名称
+  #     -r, --rootDir
+  #        XCode 工程的根目录
+  #        Default: .
+  #     -s, --scheme
+  #        XCode 工程scheme
+  #     -v, --version
+  #        XCode 版本，如果不指定就8.3.3
+  #        Default: 8.3.3
+  #        Possible Values: [7.0, 7.2, 8.0, 8.3.3, 9.0]
+  
+  - plugin_xcode
+    --iosPath : bin/ios
     # 下一条指令开启xcode工程的默认编译
     # 一般需要指定以下参数:
     # --iosPath 输出路径， 默认是 bin/ios
