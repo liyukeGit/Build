@@ -2,7 +2,7 @@ from: mac
 envs:
   version: 1.0
   build: 1.0
-  scm.increment: 
+  scm.increment: true
   scm.checkout: true
 stages:
   build:
