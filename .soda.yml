@@ -8,7 +8,7 @@ stages:
   install:
     # - /usr/bin/ruby -e '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)'
     - curl -fsSL -o install_brew.sh https://raw.githubusercontent.com/Homebrew/install/master/install
-    - /usr/bin/ruby install_brew.sh
+    - $ /usr/bin/ruby install_brew.sh
   build:
   # 调用XCode执行IOS工程构建 
 
