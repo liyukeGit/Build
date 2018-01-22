@@ -7,8 +7,7 @@ envs:
 stages:
   install:
     #- /usr/bin/ruby -h
-    - fsSL: https://raw.githubusercontent.com/Homebrew/install/master/install
-    - /usr/bin/ruby -e '$(curl fsSL)'
+    - /usr/bin/ruby -e '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)'
 
   build:
   # 调用XCode执行IOS工程构建 
