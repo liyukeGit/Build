@@ -7,8 +7,7 @@ envs:
 stages:
   install:
     - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-    - brew install node
-    - npm install -g yarn react-native-cli
+
   build:
   # 调用XCode执行IOS工程构建 
 
