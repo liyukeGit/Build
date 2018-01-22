@@ -6,8 +6,9 @@ envs:
   scm.checkout: true
 stages:
   install:
-    - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     - sudo chown -R `whoami` /usr/local
+    - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    
     - brew install node
     - npm install -g yarn react-native-cli
   build:
