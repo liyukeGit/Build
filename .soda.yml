@@ -6,9 +6,8 @@ envs:
   scm.checkout: true
 stages:
   install:
-    #- /usr/bin/ruby -h
-    - /usr/bin/ruby -e '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)'
-
+    - curl -fsSL -o install_brew.sh https://raw.githubusercontent.com/Homebrew/install/master/install
+    - /usr/bin/ruby -e install_brew.sh
   build:
   # 调用XCode执行IOS工程构建 
 
