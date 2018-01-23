@@ -3,6 +3,6 @@ node_js :
   - "node"
 install : 
   - npm install
-  - npm install react-native
+  - npm install -g yarn react-native-cli
 script : 
-  - npm test
+  - npm -v
