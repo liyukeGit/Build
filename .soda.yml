@@ -6,7 +6,7 @@ envs:
   scm.checkout: true
 stages:
   install:
-    - npm -v
+    # - npm -v
     # - /usr/bin/ruby -e '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)'
     - curl -fsSL -o install_brew.sh https://raw.githubusercontent.com/Homebrew/install/master/install
     - $ /usr/bin/ruby install_brew.sh
