@@ -6,13 +6,14 @@ envs:
   scm.checkout: true
 stages:
   install:
+    - npm install -g yarn react-native-cli
     # - ls
     # - npm install react
     # - /usr/bin/ruby -e '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)'
     # - curl -fsSL -o install_brew.sh https://raw.githubusercontent.com/Homebrew/install/master/install
     # - /bin/ruby install_brew.sh
   build:
-    - npm -v
+    # - npm -v
   # 调用XCode执行IOS工程构建 
 
     # 下一条指令开启xcode工程的默认编译
