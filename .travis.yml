@@ -11,6 +11,9 @@
 
 
 language: android
+before_install: 
+  - nvm install 6
+  - node --version
 install: 
   - npm install
 android: #1.3
