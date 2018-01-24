@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.52.0_20a2669caca1cc3fcf0a269aa3717ba96708e1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.2.0_0672e04b462f981de544538b4667598bcbb4142c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_b06d78ca451d395d1093b188cfaca9754cf7d631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/javax.inject-1_b7bf90d2420d05e4f785d2e4208b4a43eadc4ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.3.0_5475258ebb9be82f518c9d4c3d9b12d1e3bbab9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-11.0.4_92a6928c456cd9a8826cfc8a95410b6e26a2086e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/support-annotations-25.2.0_049e4bd0a8432c1aaf2ead44f9b26cd139a80100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_39401012325f4b7d2eb89b77814372f170b92282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.2.0_20d8b048656b2c60fcac59a5d7919ec1608eb645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.2.0_e63e4ad0d87436fa49ee6e99bf098312fdc20194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.3.0_8d06f06898d829ff5b506e71afea0b3ecbff8e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/Build/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98038972359c20a48b4be81013c1ae698370fd31">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/Build-react-native-device-info-unspecified_20d80d7b6d5f1baab4e2c1b6d93854c0023904d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_833e2ecdbae3a7840b271fc51bdd130169083ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.3.0_d69292b4774a70bfa6b617089ca20e6696c67037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-iid-11.0.4_bc5323ebb8a8ef9a26dcd9122da9f61ac334c603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-11.0.4_6b047c335a76f600fe88c8eaa5d1093c33bf4619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.3.0_568a33cd35d637423a1a1ed2702555dce6678576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_c9f1d40c88ed6acd964c96dccb6383867ce5fd11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_e000d17db0beabf75fd4739d893dba155cc4ab6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_204b263834cfb524c215f9c06d09aae68ad9d98e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.2.0_f857d4f7a30f77eafd305f79bf76c3c7a160eaf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_223a92ae7018a2925611bf9d59a21b119472eddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_a15027d0e4651662d7d9ed27a2358df5823f4e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.3.0_dd3b6941f2fa3e17147c3ff9443e7d8d1ad4dd2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_a88ba5dcb285c81e419cd02ab9856421c160faeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_40b1bf9d1aa467b615ca05d3ee6c5985ce4a6a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.2.0_4d5d7d2d3f9a3d10ee12da6d2f56d85a108d5543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-11.0.4_3a1295487a0ddd3b7aea0c56ac69c46c8576da1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_b86461557555bc61fe618972f7959bac970b4dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-11.0.4_adff7b31047f03f3d9c27a10b3a264ca81a83fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/liyuke/Desktop/BuildGit/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.2.0_ad477ec93ac9a00fa7d20c721c96642aa58f8e98.jar" />
+    </item>
+
+</items>
