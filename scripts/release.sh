@@ -11,6 +11,9 @@ if [[ $? != 0 ]];then
      exit 1;
  fi
 
+
+
+
 PROVISIONING_PROFILE="$HOME/Library/MobileDevice/Provisioning Profiles/Builddev.mobileprovision"
 OUTPUTDIR="$PWD/build/Release-iphoneos"
 NAME=Esports_${TRAVIS_COMMIT:0:6}.ipa
