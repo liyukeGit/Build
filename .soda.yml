@@ -7,7 +7,7 @@ envs:
 stages:
   install:
     # - ls
-    - npm -v
+    - npm install react
     # - /usr/bin/ruby -e '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)'
     # - curl -fsSL -o install_brew.sh https://raw.githubusercontent.com/Homebrew/install/master/install
     # - /bin/ruby install_brew.sh
